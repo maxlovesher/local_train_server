@@ -2384,10 +2384,32 @@
       "subject": "Data Structures",
       "code": "DS",
       "classesPerDay": {
-        "1": 2,
+        "1": 1,
         "2": 1,
         "3": 1,
         "4": 1,
+        "5": 0
+      }
+    },
+    {
+      "subject": "Digital System Design Labrotory",
+      "code": "DSD(L)",
+      "classesPerDay": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+      }
+    },
+    {
+      "subject": "Data Structures Labrotory",
+      "code": "DS(L)",
+      "classesPerDay": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
         "5": 0
       }
     },
@@ -2397,9 +2419,9 @@
       "classesPerDay": {
         "1": 1,
         "2": 0,
-        "3": 2,
+        "3": 1,
         "4": 1,
-        "5": 2
+        "5": 0
       }
     },
     {
@@ -2409,7 +2431,7 @@
         "1": 1,
         "2": 1,
         "3": 1,
-        "4": 1,
+        "4": 0,
         "5": 1
       }
     },
